@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&section=header&text=Ahmed%20Shreif%20Abdelaty&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Computer%20%26%20Communications%20Engineering&descSize=16&descAlignY=60" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&section=header&text=Ahmed%20Shreif&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Front-End%20Developer%20%7C%20CCE%20Student&descSize=18&descAlignY=62" alt="Ahmed Shreif - Front-End Developer" width="100%" />
 
 <br />
 
