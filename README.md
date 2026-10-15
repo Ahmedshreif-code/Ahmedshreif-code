@@ -44,11 +44,11 @@ I am currently a front-end student in the **Route Academy** diploma, and I have 
 | Project | Overview | Stack |
 | :-- | :-- | :-- |
 | [**Industrial Product Inspection System**](https://github.com/Ahmedshreif-code/industrial-product-inspection-system) | AI-powered production line inspection with real-time defect detection and automation. | Python, YOLOv8, Raspberry Pi, Flask |
-| [**Portfolio (NTI Final Project)**](https://github.com/Ahmedshreif-code/protfolio-NTI-final-project) | Personal portfolio website built as the final project at NTI. | TypeScript |
+| [**Portfolio (NTI Final Project)**](https://github.com/Ahmedshreif-code/protfolio-NTI-final-project) | Personal portfolio website built as the final project at NTI. |  Angular, TypeScript |
 | [**Route Tasks**](https://github.com/Ahmedshreif-code/Route-Tasks) | Front-end tasks and exams from Route Academy, each with a live demo and source code. | HTML, CSS, JavaScript, TypeScript, React, Tailwind, Bootstrap |
-| [**E-commerce (Route x Orange)**](https://github.com/Ahmedshreif-code/Ecommerce-Rote-X-Orange) | Responsive e-commerce website. | HTML |
-| [**Guess the Number**](https://github.com/Ahmedshreif-code/Guess-the-number-Game) | Interactive number guessing game. | TypeScript |
-| [**X-O Game**](https://github.com/Ahmedshreif-code/X-O-Game) | Classic two-player Tic-Tac-Toe game. | TypeScript |
+| [**E-commerce (Route x Orange)**](https://github.com/Ahmedshreif-code/Ecommerce-Rote-X-Orange) | Responsive e-commerce website. | HTML, CSS, Bootstrap, JavaScript |
+| [**Guess the Number**](https://github.com/Ahmedshreif-code/Guess-the-number-Game) | Interactive number guessing game. | Angular, TypeScript |
+| [**X-O Game**](https://github.com/Ahmedshreif-code/X-O-Game) | Classic two-player Tic-Tac-Toe game. | Angular, TypeScript |
 
 <br />
 
@@ -58,7 +58,7 @@ I am currently a front-end student in the **Route Academy** diploma, and I have 
 | :-- | :-- | :-- | :-- |
 | **Front-End Web Development Diploma (React JS)** | SEF Academy | 6 months, score 99.44% | April 2025 |
 | **MEAN-Stack Web Development** (summer training) | NTI (National Telecommunication Institute) | 120 hours (90 technical, 30 freelancing), score 95% | July 2025 |
-| **Route x Orange Bootcamp** | Route Academy x Orange | 3 days, 21 hours | |
+| **Route x Orange Bootcamp** | Route Academy x Orange | 3 days, 24 hours | Sep 2026 |
 | **Front-End Diploma** (in progress) | Route Academy | Currently enrolled | Ongoing |
 
 <details>
@@ -81,14 +81,12 @@ I am currently a front-end student in the **Route Academy** diploma, and I have 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ahmedshreif-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahmedshreif-code&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmedshreif-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="48%" alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshreif-code&layout=compact&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshreif-code&layout=compact&theme=default&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedshreif-code&layout=compact&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="48%" alt="Most used languages" src="profile-summary-card-output/github/2-most-commit-language.svg" />
 </picture>
 
 </div>
